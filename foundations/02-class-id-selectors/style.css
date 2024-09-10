@@ -1,0 +1,21 @@
+.klasa
+{
+    background-color: rgb(255, 81, 81);
+    font-family: VERDANA, "DejaVu Sans", sans-serif;
+
+}
+#identyfikator
+{
+    color: rgb(0, 38, 255);
+    font-size: 32px;
+}
+.ident
+{
+    font-size: 24px;
+}
+#identyfi
+{
+    background-color: rgb(39, 187, 39);
+    font-size: 24px;
+    font-weight: bold;
+}
